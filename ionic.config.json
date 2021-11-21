@@ -1,0 +1,7 @@
+{
+  "name": "sakine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
